@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PilaDinamica
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PilaDinamica\ here.\r\n\r\n\ @author\ EOGJ\r\n\ @Date\ 29/August/2023\r\n
+comment1.params=
+comment1.target=PilaDinamica()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=java.lang.Object\ top()
+comment5.params=
+comment5.target=java.lang.Object\ pop()
+comment6.params=elemento
+comment6.target=java.lang.Object\ push(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

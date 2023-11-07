@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pila
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pila\ here.\r\n\r\n\ @author\ Omar\ Ganem\r\n\ @version\ 29/Agosto/2023\r\n
+comment1.params=
+comment1.target=Pila()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pila\r\n
+comment2.params=o
+comment2.target=void\ push(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=
+comment6.target=java.lang.Object\ end()
+numComments=7

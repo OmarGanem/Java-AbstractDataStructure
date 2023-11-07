@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Point\ here.\r\nEsta\ clase\ representa\ los\ puntos\ en\ un\ sistema\ coordenado\ 2D\r\n\ @author\ EOGJ\r\n\ @version\ 17/08/23\r\n
+comment1.params=
+comment1.target=Point()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Point\r\n
+comment2.params=x\ y
+comment2.target=Point(double,\ double)
+comment2.text=\r\n\ constructor\ sobrecargado\ dor\ objects\ of\ class\ point\r\n
+comment3.params=
+comment3.target=double\ getX()
+comment3.text=\r\n\ Metodo\ getX\ regresa\ el\ atributo\ X\r\n\r\n\ @param\ \ no\ tiene\ parametro\ x\ \ el\ nuevo\ valor\ del\ atributo\ x\r\n\ @return\ \ \ \ el\ valor\ del\ atributo\ x\r\n
+comment4.params=
+comment4.target=double\ getY()
+comment4.text=\r\n\ Metodo\ getY\ regresa\ el\ atributo\ y\r\n\r\n\ @param\ \ no\ tiene\ parametro\ x\ \ el\ nuevo\ valor\ del\ atributo\ y\r\n\ @return\ \ \ \ el\ valor\ del\ atributo\ y\r\n
+comment5.params=x
+comment5.target=void\ setX(double)
+comment5.text=\r\n\ Metodo\ setX\ establece\ el\ atributo\ X\r\n\r\n\ @param\ x\ \ el\ nuevo\ valor\ del\ atributo\ x\r\n\ @return\ \ \ \ no\ regresa\ nada\r\n
+comment6.params=y
+comment6.target=void\ setY(double)
+comment6.text=\r\n\ Metodo\ setY\ establece\ el\ atributo\ y\r\n\r\n\ @param\ y\ \ el\ nuevo\ valor\ del\ atributo\ y\r\n\ @return\ \ \ \ no\ regresa\ nada\r\n
+comment7.params=point
+comment7.target=double\ distance(Point)
+numComments=8
