@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Recursividad
+comment0.text=\r\nFunciones\ recursivas\ chidas\r\n\r\n\ @author\ Edgar\ Omar\ Ganem\ Juarez\r\n\ date\ 19/oct/2023\r\n
+comment1.params=x
+comment1.target=int\ factorialFor(int)
+comment2.params=x
+comment2.target=int\ factorial(int)
+numComments=3

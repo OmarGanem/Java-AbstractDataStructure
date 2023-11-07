@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QuickF
+comment0.text=\r\n\ Algoritmo\ para\ realizar\ una\ busqueda\r\n\r\n\ @author\ Omar\ Ganem\r\n\ @version\ 21\ September\ 2023\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arturo\ x\ inf\ sup
+comment2.target=int\ Search(int[],\ int,\ int,\ int)
+comment3.params=arturo\ x\ inf\ sup
+comment3.target=int\ Search2(int[],\ int,\ int,\ int)
+numComments=4

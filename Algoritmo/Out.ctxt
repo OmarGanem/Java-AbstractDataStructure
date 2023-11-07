@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Out
+comment0.text=\r\n\ va\ a\ ser\ la\ salida\ de\ el\ programa\r\n\r\n\ @author\ Omar\ Ganem\r\n\ @version\ 21\ September\ 2023\r\n
+comment1.params=s
+comment1.target=void\ Write(java.lang.String)
+comment2.params=s
+comment2.target=void\ WriteLine(java.lang.String)
+numComments=3
