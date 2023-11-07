@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Tower
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tower\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tower()
+comment2.params=disk
+comment2.target=boolean\ addDisk(Disk)
+comment3.params=
+comment3.target=Disk\ removeDisk()
+comment4.params=disk
+comment4.target=boolean\ canAddDisk(Disk)
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+numComments=6

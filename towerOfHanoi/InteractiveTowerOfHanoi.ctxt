@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InteractiveTowerOfHanoi
+comment0.text=\r\n\ un\ "juego"\ para\ resolver\ el\ problema\ de\ las\ torres\ de\ hanoi\ graficamente\ y\ usando\ recursividad\r\n\r\n\ @author\ EOGJ\r\n\ @version\ Date\ october/26/2023\r\n
+comment1.params=numDisks
+comment1.target=InteractiveTowerOfHanoi(int)
+comment2.params=
+comment2.target=void\ setupGUI()
+comment3.params=
+comment3.target=void\ initializeInitialTower()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
